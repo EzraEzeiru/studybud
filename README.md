@@ -22,8 +22,7 @@ A web application that allows users to sign up and create study rooms based on v
 
 # Files and directories 
 
-Model.py contains the class model used to design the database for the app 
-
+Model.py contains the database design code 
 Templates: A directory that contains all html being rendered into the app
 
 Views.py: This is the code that renders the page and contains function based views that are called based on the url.
