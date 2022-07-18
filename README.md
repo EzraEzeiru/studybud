@@ -31,7 +31,7 @@ Views.py: This is the code that renders the page and contains function based vie
 URLs.py: Contains all the available routes that can be accessed by users.
 
 
-#Improvements 
+# More to do 
 
 I intend to add an invitation feature where users can Invite other users to the room.
 
